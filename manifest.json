@@ -1,6 +1,6 @@
 {
-    "name": "profile_page_ui",
-    "short_name": "profile_page_ui",
+    "name": "prof",
+    "short_name": "prof",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
